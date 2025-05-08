@@ -4,7 +4,9 @@
 
 /PATCH_*.sh
 
-/app/etc/local.xml
+/etc
+/autoload.php
+/bootstrap.php
 
 /media/*
 !/media/.htaccess
